@@ -1,0 +1,24 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "complete node learning",
+  "homepage": "https://github.com/Vijay0908-lab/Node_basic#readme",
+  "bugs": {
+    "url": "https://github.com/Vijay0908-lab/Node_basic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijay0908-lab/Node_basic.git"
+  },
+  "license": "ISC",
+  "author": "Vijay",
+  "type": "commonjs",
+  "main": "(app.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
